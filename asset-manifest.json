@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/frontendmentor-testimonials-grid-2/static/css/main.4b65e078.css",
+    "main.js": "/frontendmentor-testimonials-grid-2/static/js/main.3e8a1717.js",
+    "static/js/787.ee181633.chunk.js": "/frontendmentor-testimonials-grid-2/static/js/787.ee181633.chunk.js",
+    "static/media/logo.svg": "/frontendmentor-testimonials-grid-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/frontendmentor-testimonials-grid-2/index.html",
+    "static/media/bg-pattern-quotation.svg": "/frontendmentor-testimonials-grid-2/static/media/bg-pattern-quotation.6b460e30439432820da6.svg",
+    "main.4b65e078.css.map": "/frontendmentor-testimonials-grid-2/static/css/main.4b65e078.css.map",
+    "main.3e8a1717.js.map": "/frontendmentor-testimonials-grid-2/static/js/main.3e8a1717.js.map",
+    "787.ee181633.chunk.js.map": "/frontendmentor-testimonials-grid-2/static/js/787.ee181633.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b65e078.css",
+    "static/js/main.3e8a1717.js"
+  ]
+}
